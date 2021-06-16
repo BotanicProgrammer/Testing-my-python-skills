@@ -7,3 +7,5 @@ print(" ")
 print(" ")
 update = 'Update! Planning for the game has started.'
 print(update)
+update2 = 'Sadly, because of copyright issues, we cannot continue progress with the game.'
+print(update2)
